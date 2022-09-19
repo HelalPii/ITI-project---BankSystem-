@@ -1,3 +1,4 @@
-#BankSystem project 
-##ITI
-###using static arrays as a data structure as a database
+## ITI-project---BankSystem-
+# Bank system using array as a database 
+#ITI project - BankSystem using C++
+
